@@ -4,7 +4,7 @@
 
 /* Meaningless change so I can do a push */
 
-#define DELAY_TIME 1000
+#define DELAY_TIME 5000
 
 // the setup function runs once when you press reset or power the board
 void setup() {
